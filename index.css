@@ -42,7 +42,7 @@ button {
 
 footer{
     position: relative;
-    margin-top : 100px;
+    margin-top : 200px;
     bottom: 0;
     left: 0;
     right: 0;
@@ -50,7 +50,7 @@ footer{
     height: auto;
     width: 100vw;
   
-    padding-top: 40px;
+    padding-top: 5px;
     color: #fff;
   }
   .footer-content{
@@ -151,4 +151,3 @@ footer{
   margin-bottom: 20px;
   }
   }
-
