@@ -88,15 +88,12 @@ footer{
     color: #fff;
     border: 1.1px solid white;
     padding: 5px;
-  
     border-radius: 50%;
   
   }
   .socials a i{
     font-size: 1.1rem;
     width: 20px;
-  
-  
     transition: color .4s ease;
   
   }
